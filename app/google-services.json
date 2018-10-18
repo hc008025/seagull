@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "26101701486",
+    "firebase_url": "https://seagull-6231f.firebaseio.com",
+    "project_id": "seagull-6231f",
+    "storage_bucket": "seagull-6231f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26101701486:android:9e5cf162b7380d2c",
+        "android_client_info": {
+          "package_name": "com.example.hc008.seagull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26101701486-egdp1qoc8602caq6opfbcqnuurr79k2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd4JueDs2MEonK_RbWse1X-exwwAnruoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
